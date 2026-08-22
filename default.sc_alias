@@ -1,0 +1,11 @@
+FILE>>>|sc_alias
+
+confirm ♦️ 1090 ♦️ Z: Confirm 
+cancel ♦️ 1088 ♦️ X: Cancel
+menu ♦️ 1067 ♦️ C: Menu In Game
+fullscreen ♦️ 1115 ♦️ F4: Toggle Fullscreen
+quit ♦️ 1027 ♦️ Escape: Hold escape
+up ♦️ 1038 ♦️ Up: Confirm Menu and action
+right ♦️ 1039 ♦️ Right: Confirm Menu and action
+down ♦️ 1040 ♦️ Down: Confirm Menu and action
+left ♦️ 1037 ♦️ Left: Confirm Menu and action
