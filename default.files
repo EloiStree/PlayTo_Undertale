@@ -12,11 +12,19 @@ left ♦️ 1037 ♦️ Left: Confirm Menu and action
 
 
 FILE>>>|undertale.string_to_commands
+
+# Example
+# ⌘confirm ⌘cancel ⌘menu ⌘fullscreen ⌘quit
+
 confirm ♦️ sc:confirm⬇️ 100> confirm⬆️ ♦️ Z: Confirm 
 cancel ♦️ sc:cancel⬇️ 100> cancel⬆️  ♦️ X: Cancel
 menu ♦️ sc:menu⬇️ 100> menu⬆️  ♦️ C: Menu In Game
 fullscreen ♦️ sc:fullscreen⬇️ 100> fullscreen⬆️  ♦️ F4: Toggle Fullscreen
 quit ♦️ sc:quit⬇️ 2000> quit⬆️  ♦️ Escape: Hold escape
+
+# Example
+# ⌘start_move_up ⌘stop_move_up ⌘start_move_down ⌘stop_move_down
+# ⌘start_move_right ⌘stop_move_right ⌘start_move_left ⌘stop_move_left
 
 start_move_up ♦️ sc:up⬇️ ♦️ Up: Start move up
 stop_move_up ♦️ sc:up⬆️ ♦️ Up: Stop move up
@@ -29,4 +37,33 @@ stop_move_down ♦️ sc:down⬆️ ♦️ down: Stop move down
 
 start_move_left ♦️ sc:left⬇️ ♦️left: Start move left
 stop_move_left ♦️ sc:left⬆️ ♦️ left: Stop move left
+
+
+
+
+# Example
+# ⌘🤖ok ⌘🤖no ⌘🤖back
+
+🤖ok ♦️ ⌘confirm
+🤖no♦️ ⌘cancel
+🤖back♦️ ⌘menu
+
+# Example
+# ⌘⬆️1 ⌘⬆️0 ⌘⬇️1 ⌘⬇️0
+# ⌘⬅️1 ⌘⬅️0 ⌘➡️1 ⌘➡️0
+
+⬆️1 ♦️ sc:up⬇️ ♦️ Up: Start move up
+⬆️0 ♦️ sc:up⬆️ ♦️ Up: Stop move up
+
+➡️1 ♦️ sc:right⬇️ ♦️ right: Start move  right
+➡️0 ♦️ sc:right⬆️ ♦️ right:  Stop move right
+
+⬇️1 ♦️ sc:down⬇️ ♦️ down: Start move down
+⬇️0 ♦️ sc:down⬆️ ♦️ down: Stop move down
+
+⬅️1 ♦️ sc:left⬇️ ♦️left: Start move left
+⬅️0 ♦️ sc:left⬆️ ♦️ left: Stop move left
+
+
+
 
