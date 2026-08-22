@@ -18,15 +18,15 @@ menu ♦️ sc:menu⬇️ 100> menu⬆️  ♦️ C: Menu In Game
 fullscreen ♦️ sc:fullscreen⬇️ 100> fullscreen⬆️  ♦️ F4: Toggle Fullscreen
 quit ♦️ sc:quit⬇️ 2000> quit⬆️  ♦️ Escape: Hold escape
 
-start_move_up ♦️ sc:up⬇️ ♦️ Up: Confirm Menu and action
-stop_move_up ♦️ sc:up⬆️ ♦️ Up: Confirm Menu and action
+start_move_up ♦️ sc:up⬇️ ♦️ Up: Start move up
+stop_move_up ♦️ sc:up⬆️ ♦️ Up: Stop move up
 
-start_move_right ♦️ sc:up⬇️ ♦️ Up: Confirm Menu and action
-stop_move_right ♦️ sc:up⬆️ ♦️ Up: Confirm Menu and action
+start_move_right ♦️ sc:right⬇️ ♦️ right: Start move  right
+stop_move_right ♦️ sc:right⬆️ ♦️ right:  Stop move right
 
-start_move_down ♦️ sc:up⬇️ ♦️ Up: Confirm Menu and action
-stop_move_down ♦️ sc:up⬆️ ♦️ Up: Confirm Menu and action
+start_move_down ♦️ sc:down⬇️ ♦️ down: Start move down
+stop_move_down ♦️ sc:down⬆️ ♦️ down: Stop move down
 
-start_move_left ♦️ sc:up⬇️ ♦️ Up: Confirm Menu and action
-stop_move_left ♦️ sc:up⬆️ ♦️ Up: Confirm Menu and action
+start_move_left ♦️ sc:left⬇️ ♦️left: Start move left
+stop_move_left ♦️ sc:left⬆️ ♦️ left: Stop move left
 
